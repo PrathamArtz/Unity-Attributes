@@ -282,7 +282,7 @@ public class ExampleScript : MonoBehaviour
 
 Rigidbody component has been attached automatically to the gameobject
 
-![RequireComponent view]()
+![RequireComponent view](https://github.com/PrathamArtz/Unity_Attributes/blob/main/Gif/RequireComponent.gif)
 
 RequireComponent attribute demo preventing the removal of the specified required component
 
