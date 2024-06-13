@@ -1,7 +1,7 @@
 # Unity_Attributes
 Unity Attributes for Better Inspector Experience
 
-1. SerializeField
+1. [SerializeField](#SerializeField)
 2. HideInInspector
 3. Header
 4. Space
@@ -39,6 +39,7 @@ Note that only the public field maxHealth shows up on the inspector. All the pri
 
 <br />
 <h2> SerializeField</h2> 
+# SerializeField
 To expose private variables in the inspector so that you could change it, simply add the SerializeField attribute.
 
 
