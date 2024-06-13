@@ -2,16 +2,16 @@
 Unity Attributes for Better Inspector Experience
 
 1. [SerializeField](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#-serializefield)
-2. HideInInspector
-3. Header
-4. Space
-5. Tooltip
-6. Range
-7. TextArea
-8. HelpURL
-9. RequireComponent
-10. ContextMenuItem
-11. ContextMenu
+2. [HideInInspector](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#hideininspector)
+3. [Header](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#header)
+4. [Space](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#space)
+5. [Tooltip](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#tooltip)
+6. [Range](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#range)
+7. [TextArea](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#textarea)
+8. [HelpURL](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#helpurl)
+9. [RequireComponent](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#requirecomponent)
+10. [ContextMenuItem](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#contextmenuitem)
+11. [ContextMenu](https://github.com/PrathamArtz/Unity-Attributes?tab=readme-ov-file#contextmenu)
 
 
 <h3> Hello! Let's build on the following simple Unity script and improve the inspector experience for it by adding in attributes. </h3> 
